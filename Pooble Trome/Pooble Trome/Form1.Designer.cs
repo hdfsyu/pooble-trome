@@ -76,7 +76,7 @@
             // 
             // welcomeBox1
             // 
-            this.welcomeBox1.ImageLocation = "E:\\BROWSER_IMAGE.png";
+            this.welcomeBox1.ImageLocation = "https://i.imgur.com/xUg4RUL.png";
             this.welcomeBox1.Location = new System.Drawing.Point(3, 32);
             this.welcomeBox1.Name = "welcomeBox1";
             this.welcomeBox1.Size = new System.Drawing.Size(1095, 598);
