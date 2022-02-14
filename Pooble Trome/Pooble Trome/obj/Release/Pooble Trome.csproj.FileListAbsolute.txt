@@ -1,9 +1,0 @@
-E:\Browser\Pooble Trome\Pooble Trome\bin\Release\Pooble Trome.exe.config
-E:\Browser\Pooble Trome\Pooble Trome\bin\Release\Pooble Trome.exe
-E:\Browser\Pooble Trome\Pooble Trome\bin\Release\Pooble Trome.pdb
-E:\Browser\Pooble Trome\Pooble Trome\obj\Release\Pooble_Trome.Form1.resources
-E:\Browser\Pooble Trome\Pooble Trome\obj\Release\Pooble_Trome.Properties.Resources.resources
-E:\Browser\Pooble Trome\Pooble Trome\obj\Release\Pooble Trome.csproj.GenerateResource.cache
-E:\Browser\Pooble Trome\Pooble Trome\obj\Release\Pooble Trome.csproj.CoreCompileInputs.cache
-E:\Browser\Pooble Trome\Pooble Trome\obj\Release\Pooble Trome.exe
-E:\Browser\Pooble Trome\Pooble Trome\obj\Release\Pooble Trome.pdb
